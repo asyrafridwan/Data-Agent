@@ -1,0 +1,5 @@
+{
+  "name": "Credit Report AI Analyzer",
+  "description": "Upload your credit report as a text file and get a structured JSON summary. This AI-powered tool extracts key financial data like your credit score, debt ratios, and payment history for easy analysis.",
+  "requestFramePermissions": []
+}
